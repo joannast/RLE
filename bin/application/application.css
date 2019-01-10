@@ -1,0 +1,30 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{
+	-fx-background-color: azure  ;
+	
+}
+
+.my-field {
+	-fx-font: 24px 'Times New Roman';
+		-fx-border-style: solid;
+		-fx-border-color: black ;
+		-fx-border-width: 2;
+	
+}	
+	
+.button{
+		-fx-font: 24px 'Times New Roman';
+		-fx-border-style: solid;
+		-fx-border-color: black ;
+		-fx-border-radius: 6.0pt ;
+		-fx-border-width:2px;
+
+	
+	}
+.label, text {
+		-fx-font: 24px 'Times New Roman';
+		-fx-alignment: bottom-center 
+		
+		
+	}
